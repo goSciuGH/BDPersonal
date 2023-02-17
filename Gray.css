@@ -18,7 +18,7 @@
   --button-background: #313131 !important;
   --button-background-hover: #414141 !important;
   --button-background-active: #636363 !important;
-  --button-accent-hover: var(--accent-color) !important;
+  --button-accent-hover: #000000 /*var(--accent-color)*/ !important;
   --button-accent-active: #000000 /*var(--accent-color)*/ !important;
   --button-destructive: #fb7c7c !important;
   --button-destructive-hover: #ff929b !important;
@@ -70,7 +70,7 @@
   --control-brand-foreground: var(--accent-color) !important;
   --info-warning-foreground: var(--accent-color) !important;
   --activity-card-background: var(--background-1) !important;
-  --brand-experiment: var(--accent-color) !important;
+  --brand-experiment: #000000 /*var(--accent-color)*/ !important;
   --button-accent: #000000 /*var(--accent-color)*/ !important;
   --interactive-active: var(--text-normal) !important;
   --interactive-hover: var(--interactive-normal) !important;
