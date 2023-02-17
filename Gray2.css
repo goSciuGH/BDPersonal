@@ -1,6 +1,6 @@
 /* Gray */
 .theme-dark {
-  --accent-color: #aaaaaa !important;
+  --accent-color: #7989da !important;
   --background-1: #191919 !important;
   --background-2: #202020 !important;
   --border-color: #2c2c2c !important;
@@ -18,8 +18,8 @@
   --button-background: #313131 !important;
   --button-background-hover: #414141 !important;
   --button-background-active: #636363 !important;
-  --button-accent-hover: #000000 /*var(--accent-color)*/ !important;
-  --button-accent-active: #000000 /*var(--accent-color)*/ !important;
+  --button-accent-hover: /*#000000*/ var(--accent-color) !important;
+  --button-accent-active: /*#000000*/ var(--accent-color) !important;
   --button-destructive: #fb7c7c !important;
   --button-destructive-hover: #ff929b !important;
   --button-destructive-active: #fa4a4a !important;
