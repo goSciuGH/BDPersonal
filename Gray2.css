@@ -1,4 +1,8 @@
 /* Gray */
+.positionContainer-dMArNx {
+  min-height: 750px;
+  }
+
 .theme-dark {
   --accent-color: #7989da !important;
   --background-1: #191919 !important;
@@ -74,8 +78,4 @@
   --button-accent: /*#000000*/ var(--accent-color) !important;
   --interactive-active: var(--text-normal) !important;
   --interactive-hover: var(--interactive-normal) !important;
-  
-  .positionContainer-dMArNx {
-  min-height: 750px;
-  }
 }
