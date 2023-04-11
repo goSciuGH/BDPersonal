@@ -74,4 +74,8 @@
   --button-accent: /*#000000*/ var(--accent-color) !important;
   --interactive-active: var(--text-normal) !important;
   --interactive-hover: var(--interactive-normal) !important;
+  
+  .positionContainer-dMArNx {
+  min-height: 750px;
+  }
 }
