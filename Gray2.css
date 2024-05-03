@@ -39,7 +39,7 @@
   --text-muted: #909091 !important;
   --text-link: #47494a !important;
   --settings-icon-color: #676767 !important;
-  --tab-selected: #ffffff !important;
+  --tab-selected: /*#ffffff*/ #00ffff !important;
   --switch: #cecece !important;
   --button-background: #e8e8e8 !important;
   --button-background-hover: #d8d8d8 !important;
