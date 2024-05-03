@@ -27,7 +27,7 @@
 }
 .theme-light {
   --accent-color: #61717c !important;
-  --background-1: #ffffff !important;
+  --background-1: /*#ffffff*/ #00ffff !important;
   --background-2: #f7f7f7 !important;
   --border-color: transparent !important;
   --background-mentioned: #61717c10 !important;
